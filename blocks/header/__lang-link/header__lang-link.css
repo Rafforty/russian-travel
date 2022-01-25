@@ -1,0 +1,14 @@
+.header__lang-link {
+    margin-right: 18px;
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Inter','Times New Roman';
+}
+
+.header__lang-link:last-child {
+    margin-right: 0;
+}
