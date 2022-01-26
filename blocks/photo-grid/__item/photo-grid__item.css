@@ -1,0 +1,10 @@
+.photo-grid__item {
+    max-width: 284px;
+    max-height: 213px;
+    object-fit: cover;
+}
+
+.photo-grid__item:hover {
+    opacity: 0.3;
+    transition: linear .7s;
+}
