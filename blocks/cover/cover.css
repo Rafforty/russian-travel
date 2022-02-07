@@ -3,7 +3,7 @@
     position: relative;
     max-width: 1184px;
     min-height: 740px;
-    background-image: url('../../../images/Train_Station.png');
+    background-image: url('../../images/train_station.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
