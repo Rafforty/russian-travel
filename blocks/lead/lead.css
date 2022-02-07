@@ -2,20 +2,20 @@
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-    height: 1005px;
+    min-height: 1005px;
     width: 984px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .lead {
-        height: 962px;
+        min-height: 962px;
         width: 928px;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .lead {
-        height: 862px;
+        min-height: 862px;
         width: 768px;
     }
 }
@@ -23,6 +23,6 @@
 @media screen and (min-width: 320px) and (max-width: 767px) {
     .lead {
         width: 320px;
-        height: 406px;
+        min-height: 406px;
     }
 }
