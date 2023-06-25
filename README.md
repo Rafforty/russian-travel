@@ -1,4 +1,8 @@
 # Проект: Путешествие по России
+<div align=center>
+<img src="https://github.com/Rafforty/russian-travel/assets/96177295/508295a8-83c2-4704-b766-fbf1f54d0c5b" width=500px>
+</div>
+
 
 ### Обзор
 * О проекте
